@@ -43,6 +43,8 @@ class ViewController: UIViewController {
         
     }
     
+ 
+    
     var realm: Realm!
     
     var objectsArray: Results<Usuario> {
