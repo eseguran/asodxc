@@ -53,34 +53,12 @@ class ViewController: UIViewController {
         }
     }
     
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-        realm = try! Realm()
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        title = "Welcome"
+        
+        
     }
 
-
-
-    
-    
- 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
- 
-
-}
-
-class Usuario: Object {
-    @objc dynamic var Id: String = UUID().uuidString
-    @objc dynamic var name: String = ""
-    @objc dynamic var UN: String = ""
-    @objc dynamic var password: String = ""
-    @objc dynamic var NID: String = ""
-    override static func primaryKey() -> String? {
-        return "Id"
-    }
 }
 

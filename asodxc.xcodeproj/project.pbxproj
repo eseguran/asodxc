@@ -12,6 +12,9 @@
 		7D95A41920CA39E100F03366 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D95A41720CA39E100F03366 /* Main.storyboard */; };
 		7D95A41B20CA39E200F03366 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D95A41A20CA39E200F03366 /* Assets.xcassets */; };
 		7D95A41E20CA39E200F03366 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D95A41C20CA39E200F03366 /* LaunchScreen.storyboard */; };
+		7D95A42620CB75B300F03366 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D95A42520CB75B300F03366 /* Constants.swift */; };
+		7D95A42820CB775400F03366 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D95A42720CB775400F03366 /* secondViewController.swift */; };
+		7D95A42A20CB786D00F03366 /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D95A42920CB786D00F03366 /* Usuario.swift */; };
 		F6FF52F8172EAAB62EDA56E7 /* Pods_asodxc.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4D1F84391BEDDE0A70F78A4 /* Pods_asodxc.framework */; };
 /* End PBXBuildFile section */
 
@@ -24,6 +27,9 @@
 		7D95A41A20CA39E200F03366 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D95A41D20CA39E200F03366 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D95A41F20CA39E200F03366 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D95A42520CB75B300F03366 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		7D95A42720CB775400F03366 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		7D95A42920CB786D00F03366 /* Usuario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
 		B985AB90647437F869D3EFC8 /* Pods-asodxc.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-asodxc.debug.xcconfig"; path = "Pods/Target Support Files/Pods-asodxc/Pods-asodxc.debug.xcconfig"; sourceTree = "<group>"; };
 		D4D1F84391BEDDE0A70F78A4 /* Pods_asodxc.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_asodxc.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -76,6 +82,9 @@
 				7D95A41A20CA39E200F03366 /* Assets.xcassets */,
 				7D95A41C20CA39E200F03366 /* LaunchScreen.storyboard */,
 				7D95A41F20CA39E200F03366 /* Info.plist */,
+				7D95A42520CB75B300F03366 /* Constants.swift */,
+				7D95A42720CB775400F03366 /* secondViewController.swift */,
+				7D95A42920CB786D00F03366 /* Usuario.swift */,
 			);
 			path = asodxc;
 			sourceTree = "<group>";
@@ -202,8 +211,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D95A42820CB775400F03366 /* secondViewController.swift in Sources */,
 				7D95A41620CA39E100F03366 /* ViewController.swift in Sources */,
 				7D95A41420CA39E100F03366 /* AppDelegate.swift in Sources */,
+				7D95A42A20CB786D00F03366 /* Usuario.swift in Sources */,
+				7D95A42620CB75B300F03366 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

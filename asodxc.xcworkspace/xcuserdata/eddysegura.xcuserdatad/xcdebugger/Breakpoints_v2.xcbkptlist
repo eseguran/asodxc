@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "asodxc/secondViewController.swift"
+            timestampString = "550207392.692592"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "secondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asodxc.secondViewController.__deallocating_deinit"
+                  moduleName = "asodxc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Proyectos/asodxc/asodxc/secondViewController.swift"
+                  timestampString = "550207392.703353"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asodxc.secondViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; asodxc.secondViewController"
+                  moduleName = "asodxc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Proyectos/asodxc/asodxc/secondViewController.swift"
+                  timestampString = "550207392.7169091"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asodxc.secondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; asodxc.secondViewController"
+                  moduleName = "asodxc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Proyectos/asodxc/asodxc/secondViewController.swift"
+                  timestampString = "550207392.725644"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asodxc.secondViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;asodxc.secondViewController&gt;"
+                  moduleName = "asodxc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Proyectos/asodxc/asodxc/secondViewController.swift"
+                  timestampString = "550207392.731039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asodxc.secondViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;asodxc.secondViewController&gt;"
+                  moduleName = "asodxc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Proyectos/asodxc/asodxc/secondViewController.swift"
+                  timestampString = "550207392.733093"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
